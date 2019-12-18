@@ -1,6 +1,6 @@
 %
 % Code by PGSmall
-% https://github.com/PGSmall/DMSW
+% https://github.com/PGSmall/multi-label-learning
 %% Calculate ranks for each algorithm
 clear;clc
 load data_for_cd.mat;  % data (mean ± std. error)
